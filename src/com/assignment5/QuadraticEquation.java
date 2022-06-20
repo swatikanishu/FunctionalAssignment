@@ -30,5 +30,8 @@ public class QuadraticEquation {
                 System.out.println("root2 is" + " " + real_root + " _ " + imaginary_root + "i");
             }
         }
+
+    public static class SumOfInegers {
     }
+}
 
